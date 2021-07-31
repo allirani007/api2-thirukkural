@@ -1,0 +1,22 @@
+h2
+{
+    background-color: gold;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.container
+{
+  font-family: cursive;
+}
+
+h4{
+    color:crimson;
+}
+img
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;;
+
+}
